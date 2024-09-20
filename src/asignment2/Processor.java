@@ -21,7 +21,7 @@ public class Processor {
             System.out.println("6. Display scholarship students");
             System.out.println("7. Display total tuition of all students");
             System.out.println("0. Exit");
-            System.out.print("Enter an option: ");
+            System.out.print("Enter an option: "    );
             option = scanner.nextInt();
             scanner.nextLine();
             switch (option) {
